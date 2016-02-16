@@ -1,0 +1,26 @@
+html, body {
+  margin: 0px;
+  height: 100%;
+}
+
+.primary-text {
+	color: red;
+}
+
+#next {
+
+}
+
+#text {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.top {
+  height: 300px;
+}
+
+button {
+
+}
